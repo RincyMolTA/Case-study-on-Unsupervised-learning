@@ -1,1 +1,1 @@
-# Case-study-on-Unsupervised-learning
+# Case study on Unsupervised learning
